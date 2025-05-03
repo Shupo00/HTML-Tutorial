@@ -98,7 +98,7 @@
     id="username" 
     name="username" 
     placeholder="ユーザー名を入力してください" 
-    minlength="4" 
+    minlength="4" s
     maxlength="10" 
     required
   >
