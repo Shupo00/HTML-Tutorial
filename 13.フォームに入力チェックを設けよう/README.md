@@ -89,7 +89,7 @@
 <summary>解答例</summary>
 
 ```html
-<h1>ユーザー登録s</h1>
+<h1>ユーザー登録sa</h1>
 
 <form action="/submit" method="POST">
   <label for="username">ユーザー名:</label><br>
